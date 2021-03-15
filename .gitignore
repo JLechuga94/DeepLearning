@@ -1,1 +1,7 @@
 .ipynb_checkpoints
+T3/cuda_training_checkpoints/
+T3/data/
+T3/lightning_logs/
+T3/training_checkpoints/
+T4/data/
+T4/lightning_logs/
